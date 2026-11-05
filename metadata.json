@@ -1,0 +1,6 @@
+{
+  "name": "VoxConvert - Multilingual TTS & STT Studio",
+  "description": "Full-featured Text to Speech & Speech to Text converter with multilingual translation, voice customization, audio waveform visualizer, and studio-grade export options.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
